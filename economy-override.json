@@ -19,10 +19,18 @@
     "traders": {
       "A_0_Armory": [
         {
+          "tradeable-code": "BPC_Weapon_M82A1_Snow",
+          "base-purchase-price": "100000",
+          "base-sell-price": "15000",
+          "delta-price": "0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "BP_Frag_Grenade",
           "base-purchase-price": "5000",
           "base-sell-price": "2500",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -30,7 +38,7 @@
           "tradeable-code": "BP_Weapon_AK47",
           "base-purchase-price": "20000",
           "base-sell-price": "5000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -38,7 +46,7 @@
           "tradeable-code": "BP_DEagle_50Gold",
           "base-purchase-price": "20000",
           "base-sell-price": "10000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "20"
         }
@@ -50,10 +58,18 @@
       "A_0_Trader": [],
       "B_4_Armory": [
         {
+          "tradeable-code": "BPC_Weapon_M82A1_Snow",
+          "base-purchase-price": "100000",
+          "base-sell-price": "15000",
+          "delta-price": "0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "BP_Frag_Grenade",
           "base-purchase-price": "5000",
           "base-sell-price": "2500",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -61,7 +77,7 @@
           "tradeable-code": "BP_Weapon_AK47",
           "base-purchase-price": "20000",
           "base-sell-price": "5000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -69,7 +85,7 @@
           "tradeable-code": "BP_DEagle_50Gold",
           "base-purchase-price": "20000",
           "base-sell-price": "10000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "20"
         }
@@ -81,10 +97,18 @@
       "B_4_Trader": [],
       "C_2_Armory": [
         {
+          "tradeable-code": "BPC_Weapon_M82A1_Snow",
+          "base-purchase-price": "100000",
+          "base-sell-price": "15000",
+          "delta-price": "0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "BP_Frag_Grenade",
           "base-purchase-price": "5000",
           "base-sell-price": "2500",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -92,7 +116,7 @@
           "tradeable-code": "BP_Weapon_AK47",
           "base-purchase-price": "20000",
           "base-sell-price": "5000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -100,7 +124,7 @@
           "tradeable-code": "BP_DEagle_50Gold",
           "base-purchase-price": "20000",
           "base-sell-price": "10000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "20"
         }
@@ -112,10 +136,18 @@
       "C_2_Trader": [],
       "Z_3_Armory": [
         {
+          "tradeable-code": "BPC_Weapon_M82A1_Snow",
+          "base-purchase-price": "100000",
+          "base-sell-price": "15000",
+          "delta-price": "0",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "BP_Frag_Grenade",
           "base-purchase-price": "5000",
           "base-sell-price": "2500",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -123,7 +155,7 @@
           "tradeable-code": "BP_Weapon_AK47",
           "base-purchase-price": "20000",
           "base-sell-price": "5000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "-1"
         },
@@ -131,7 +163,7 @@
           "tradeable-code": "BP_DEagle_50Gold",
           "base-purchase-price": "20000",
           "base-sell-price": "10000",
-          "delta-price": "1",
+          "delta-price": "0",
           "can-be-purchased": "true",
           "required-famepoints": "20"
         }
