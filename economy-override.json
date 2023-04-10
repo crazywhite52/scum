@@ -19,6 +19,22 @@
     "traders": {
       "A_0_Armory": [
         {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "80000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "100000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "BPC_Weapon_M82A1_Snow",
           "base-purchase-price": "100000",
           "base-sell-price": "20000",
@@ -85,10 +101,43 @@
       ],
       "A_0_BoatShop": [],
       "A_0_Hospital": [],
-      "A_0_Mechanic": [],
+      "A_0_Mechanic": [
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
       "A_0_Saloon": [],
       "A_0_Trader": [],
       "B_4_Armory": [
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "80000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "100000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "BPC_Weapon_M82A1_Snow",
           "base-purchase-price": "100000",
@@ -156,10 +205,43 @@
       ],
       "B_4_BoatShop": [],
       "B_4_Hospital": [],
-      "B_4_Mechanic": [],
+      "B_4_Mechanic": [
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
       "B_4_Saloon": [],
       "B_4_Trader": [],
       "C_2_Armory": [
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "80000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "100000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "BPC_Weapon_M82A1_Snow",
           "base-purchase-price": "100000",
@@ -227,10 +309,43 @@
       ],
       "C_2_BoatShop": [],
       "C_2_Hospital": [],
-      "C_2_Mechanic": [],
+      "C_2_Mechanic": [
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
       "C_2_Saloon": [],
       "C_2_Trader": [],
       "Z_3_Armory": [
+        {
+          "tradeable-code": "2H_Katana",
+          "base-purchase-price": "80000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "2H_Katana1",
+          "base-purchase-price": "100000",
+          "base-sell-price": "20000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "BPC_Weapon_M82A1_Snow",
           "base-purchase-price": "100000",
@@ -298,9 +413,27 @@
       ],
       "Z_3_BoatShop": [],
       "Z_3_Hospital": [],
-      "Z_3_Mechanic": [],
+      "Z_3_Mechanic": [
+        {
+          "tradeable-code": "BPC_Laika",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        },
+        {
+          "tradeable-code": "BPC_WolfsWagen",
+          "base-purchase-price": "120000",
+          "base-sell-price": "30000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
       "Z_3_Saloon": [],
       "Z_3_Trader": []
-    }
+    },
+    "prices-subject-to-player-count ": "1"
   }
 }
