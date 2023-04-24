@@ -19,6 +19,38 @@
     "traders": {
       "A_0_Armory": [
         {
+          "tradeable-code": "BPC_Weapon_AK15",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Zombie_Impersonator_Suit",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Modern",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Vintage",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
           "tradeable-code": "2H_Katana",
           "base-purchase-price": "80000",
           "base-sell-price": "20000",
@@ -120,8 +152,49 @@
         }
       ],
       "A_0_Saloon": [],
-      "A_0_Trader": [],
+      "A_0_Trader": [
+        {
+          "tradeable-code": "Apple_Pie",
+          "base-purchase-price": "1000",
+          "base-sell-price": "100",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "10"
+        }
+      ],
       "B_4_Armory": [
+        {
+          "tradeable-code": "BPC_Weapon_AK15",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Zombie_Impersonator_Suit",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Modern",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Vintage",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "2H_Katana",
           "base-purchase-price": "80000",
@@ -224,8 +297,49 @@
         }
       ],
       "B_4_Saloon": [],
-      "B_4_Trader": [],
+      "B_4_Trader": [
+        {
+          "tradeable-code": "Apple_Pie",
+          "base-purchase-price": "1000",
+          "base-sell-price": "100",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "10"
+        }
+      ],
       "C_2_Armory": [
+        {
+          "tradeable-code": "BPC_Weapon_AK15",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Zombie_Impersonator_Suit",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Modern",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Vintage",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "2H_Katana",
           "base-purchase-price": "80000",
@@ -328,8 +442,49 @@
         }
       ],
       "C_2_Saloon": [],
-      "C_2_Trader": [],
+      "C_2_Trader": [
+        {
+          "tradeable-code": "Apple_Pie",
+          "base-purchase-price": "1000",
+          "base-sell-price": "100",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "10"
+        }
+      ],
       "Z_3_Armory": [
+        {
+          "tradeable-code": "BPC_Weapon_AK15",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Zombie_Impersonator_Suit",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Modern",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "Hazmat_Suit_Vintage",
+          "base-purchase-price": "100000",
+          "base-sell-price": "50000",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
         {
           "tradeable-code": "2H_Katana",
           "base-purchase-price": "80000",
@@ -432,7 +587,16 @@
         }
       ],
       "Z_3_Saloon": [],
-      "Z_3_Trader": []
+      "Z_3_Trader": [
+        {
+          "tradeable-code": "Apple_Pie",
+          "base-purchase-price": "1000",
+          "base-sell-price": "100",
+          "delta-price": "-1",
+          "can-be-purchased": "true",
+          "required-famepoints": "10"
+        }
+      ]
     },
     "prices-subject-to-player-count ": "1"
   }
